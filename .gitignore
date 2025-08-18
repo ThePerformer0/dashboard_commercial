@@ -1,0 +1,14 @@
+# Environnements virtuels
+venv/
+.env/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*.log
+.DS_Store
+
+# Data volumineuse
+data/*.csv
