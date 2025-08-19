@@ -9,6 +9,3 @@ __pycache__/
 # Fichiers temporaires
 *.log
 .DS_Store
-
-# Data volumineuse
-data/*.csv
