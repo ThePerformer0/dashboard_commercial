@@ -25,7 +25,7 @@ Ce projet simule une mission de Data Analyst dans une entreprise de retail :
 ## 📂 Structure du projet
 ```
 dashboard_commercial/
-│── data/               # Dataset (non inclus dans GitHub, lien plus bas)
+│── data/               # Dataset
 │── notebooks/          # Analyse exploratoire (EDA)
 │── app/                # Code de l'application Streamlit
 │── requirements.txt    # Dépendances
