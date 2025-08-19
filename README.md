@@ -74,7 +74,7 @@ streamlit run app/app.py
 
 ![Screenshot](screenshot.png)
 
-👉 [Accéder à la démo en ligne](https://dashboard_commercial.streamlit.app)
+👉 [Accéder à la démo en ligne](https://dashboard-commercial.streamlit.app)
 
 
 ---
